@@ -1,2 +1,2 @@
-# Szgabi.githab.io
+# Szgabi.github.io
 Demo page
